@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious declaration to all his loving subjects for liberty of conscience</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03858</idno>
+            <idno type="STC">Wing J189A</idno>
+            <idno type="STC">ESTC R178839</idno>
+            <idno type="EEBO-CITATION">53299130</idno>
+            <idno type="OCLC">ocm 53299130</idno>
+            <idno type="VID">179882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03858)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179882)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2807:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious declaration to all his loving subjects for liberty of conscience</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, Henry Hills and Thomas Newcomb ..., ;</publisher>
+                  <publisher>Re-printed at Holy-Rood-House, by James Watson ...,</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Title vignette: royal seal with initial J R. Initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Liberty of conscience --  England.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179882:1"/>
+            <!-- PDF PAGE 65 -->
+            <pb facs="tcp:179882:1"/>
+            <!-- PDF PAGE 65 -->
+            <head>
+               <figure/> HIS MAJESTIES GRACIOUS DECLARATION To all His Loving Subjects, for LIBERTY OF CONSCIENCE.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T having pleaſed Almighty God not only to bring Us to the Imperial Crown of theſe Kingdoms through the greateſt difficulties, but to preſerve Us by a more than ordinary Providence upon the Throne of Our Royal Anceſtors; there is nothing now that We ſo earneſtly deſire, as to Eſtabliſh, Our Go<g ref="char:EOLhyphen"/>vernment on ſuch a Foundation, as may make Our Subjects happy, and unite them to Us by Inclination as well as Duty; Which We think can be done by no Means ſo effectually, as by granting to them the free Exerciſe of their Reli<g ref="char:EOLhyphen"/>gion for the time to come, and add that to the perfect Enjoyment of their Property, which has never been in any caſe Invaded by Us ſince Our coming to the Crown: Which being the two things Men value moſt, ſhall ever be preſerved in theſe Kingdoms, during Our
+<pb n="2" facs="tcp:179882:2"/>
+               <!-- PDF PAGE 66 -->
+Reign over them, as the trueſt Methods of their Peace and Our Glory. We cannot but heartily wiſh, as it will eaſily be believed, that all the People of Our Dominions were Members of the Catholick Church, yet We humbly thank Almighty God, it is, and hath of long time been Our conſtant Senſe and Opinion (which upon diverſe Oc<g ref="char:EOLhyphen"/>caſions We have declared) that Conſcience ought not to be con<g ref="char:EOLhyphen"/>ſtrained, nor People forced in matters of meer Religion: It has ever been directly contrary to Our Inclination, as We think it is to the Intereſt of Government, which it deſtroys by ſpoiling Trade, depo<g ref="char:EOLhyphen"/>pulating Countreys, and diſcouraging Strangers; and finally, that it never obtained the End for which it was employed: And in this We are the more Confirmed by the Reflexions We have made upon the Conduct of the four laſt Reigns. For after all the frequent and preſſing Endeavours that were uſed in each of them, to reduce this Kingdom to an exact Conformity in Religion, it is viſible the Succeſs has not anſwered the Deſign, and that the Difficulty is invincible; We therefore out of Our Princely Care and Affection unto all Our Loving Subjects, that they may live at Eaſe and Quiet, and for the increaſe of Trade, and incouragement of Strangers, have thought fit by vertue of Our Royal Prerogative, to iſſue forth this Our Decla<g ref="char:EOLhyphen"/>ration of Indulgence; making no doubt of the Concurrence of Our Two Houſes of Parliament, when we ſhall think it convenient for them to Meet.</p>
+            <p>In the firſt Place We do Declare, That We will Protect and Main<g ref="char:EOLhyphen"/>tain Our Arch-Biſhops, Biſhops, and Clergy, and all other Our Sub<g ref="char:EOLhyphen"/>jects of the Church of <hi>England,</hi> in the free Exerciſe of their Religion, as by Law Eſtabliſhed, and in the quiet and full Enjoyment of all their Poſſeſſions, without any Moleſtation or Diſturbance whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p>We do likewiſe Declare, That it is Our Royal Will and Pleaſure, That from henceforth the Execution of all and all manner of Penal Laws in Matters Eccleſiaſtical, for not coming to Church, or not Re<g ref="char:EOLhyphen"/>ceiving the Sacrament, or for any other Non-conformity to the Reli<g ref="char:EOLhyphen"/>gion Eſtabliſhed, or for, or by Reaſon of the Exerciſe of Religion in any manner whatſoever, be immediatly Suſpended; And the fur<g ref="char:EOLhyphen"/>ther Execution of the ſaid Penal Laws and every of them is hereby Suſpended.</p>
+            <p>And to the end that by the Liberty hereby granted, the Peace and Security of Our Government in the Practice thereof, may not be indangered, We have thought fit, and do hereby ſtraitly Charge and Command all Our Loving Subjects, That as We do freely give them Leave to Meet and Serve God after their own Way and Manner, be it in Private Houſes or Places purpoſely Hired or Built for that uſe; ſo that they take eſpecial care, that nothing be Preached or Taught a<g ref="char:EOLhyphen"/>mongſt them, which may any ways tend to Alienate the Hearts of Our People from Us or Our Government; And that their Meetings and Aſſemblies be peaceably, openly, and publickly held, and all Perſons
+<pb n="3" facs="tcp:179882:2"/>
+               <!-- PDF PAGE 66 -->
+freely admitted to them; And that they do ſignifie and make known to ſome one or more of the next Juſtices of the Peace, what Place or Places they ſet apart for thoſe uſes.</p>
+            <p>And that all Our Subjects may enjoy ſuch their Religious Aſſem<g ref="char:EOLhyphen"/>blies with greater Aſſurance and Protection, We have thought it re<g ref="char:EOLhyphen"/>quiſite, and do hereby Command, That no Diſturbance of any kind be made or given unto them, under Pain of Our Diſpleaſure, and to be further proceeded againſt with uttermoſt ſeverity.</p>
+            <p>And for as much as We are deſirous to have the benefit of the Ser<g ref="char:EOLhyphen"/>vice of all Our Loving Subjects, which by the Law of Nature is in<g ref="char:EOLhyphen"/>ſeparably annexed to, and inherent in Our Royal Perſon: And that none of Our Subjects may for the future be under any Diſcouragment or Diſability (who are otherwiſe well inclined and fit to ſerve Us) by Reaſon of ſome Oaths or Teſts, that have been uſually Admini<g ref="char:EOLhyphen"/>ſtrated on ſuch Occaſions: We do hereby further Declare, That it is Our Royal Will and Pleaſure, That the Oaths commonly called, <hi>The Oaths of Supremacy and Allegiance,</hi> And alſo the ſeveral Teſts and Declarations mentioned in the Acts of Parliament made in the 25th and 30th Years of the Reign of Our late Royal Brother King <hi>Charles</hi> the <hi>Second,</hi> ſhall not at any time hereafter be required to be Taken, De<g ref="char:EOLhyphen"/>clared, or Subſcribed by any Perſon or Perſons whatſoever, who is or ſhall be Imployed in any Office or Place of Truſt either Civil or Military, under Us or in Our Government. And We do further Declare it to be Our Pleaſure and Intention from time to time here<g ref="char:EOLhyphen"/>after, to Grant Our Royal Diſpenſations under Our Great Seal to all Our Loving Subjects ſo to be Imployed, who ſhall not take the ſaid Oaths, or Subſcribe or Declare the ſaid Teſts or Declarations in the above-mentioned Acts and every of them.</p>
+            <p>And to the end that all Our Loving Subjects may receive and en<g ref="char:EOLhyphen"/>joy the full Benefit and Advantage of Our Gracious Indulgence here<g ref="char:EOLhyphen"/>by intended, and may be Acquitted and Diſcharged from all Pains, Penalties, Forfeitures, and Diſabilities by them or any of them in<g ref="char:EOLhyphen"/>curred or forfeited, or which they ſhall or may at any time hereafter be lyable to, for, or by Reaſon of their Non-conformity, or the Exer<g ref="char:EOLhyphen"/>ciſe of their Religion, and from all Suits, Troubles, or Diſturbances for the ſame: We do hereby give Our Free and Ample Pardon unto all Non-conformiſts, Recuſants, and other Our Loving Subjects, for all Crimes and Things by them committed or done contrary to the Penal Laws formerly made, relating to Religion and the Profeſſion or Exerciſe thereof. Hereby Declaring, That this Our Royal Pardon and Indempnity ſhall be as Good and Effectual to all Intents and Pur<g ref="char:EOLhyphen"/>poſes, as if every Individual Perſon had been therein particularly Named, or had particular Pardons under Our Great Seal, which We do likewiſe Declare ſhall from time to time be Granted unto any Per<g ref="char:EOLhyphen"/>ſon or Perſons deſiring the ſame: Willing and Requiring Our Judges, Juſtices, and other Officers, to take Notice of and Obey Our Royal Will and Pleaſure herein before Declared.</p>
+            <p>
+               <pb n="4" facs="tcp:179882:3"/>
+               <!-- PDF PAGE 67 -->And although the Freedom and Aſſurance We have hereby given in relation to Religion and Property, might be ſufficient to remove from the Minds of Our Loving Subjects all Fears and Jealouſies in relation to either; yet We have thought fit further to Declare, That We will Maintain them in all their Properties and Poſſeſſions, as well of Church and Abby-Lands, as in any other their Lands and Properties whatſoever.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall</hi> 
+                  <date>the Fourth Day of <hi>April, 1687.</hi> In the Third Year of Our Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>By His MAJESTIES ſpecial Command.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill, Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings Moſt Excellent Majeſty. 1687<g ref="char:punc">▪</g>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-printed at <hi>Holy-Rood-Houſe,</hi> by <hi>James Watson</hi> Printer to His Majeſties Royal Family and Houſhold. 1687.</p>
+            <pb facs="tcp:179882:3"/>
+            <!-- PDF PAGE 67 -->
+         </div>
+      </back>
+   </text>
+</TEI>
